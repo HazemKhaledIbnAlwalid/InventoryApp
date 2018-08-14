@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the sale drop-down Spinner -->
+    <string-array name="array_sale_options">
+        <item>@string/sale_unkown</item>
+        <item>@string/sale</item>
+        <item>@string/no_sale</item>
+    </string-array>
+
+    <string-array name="array_shipment_options">
+        <item>@string/shipment_unkown</item>
+        <item>@string/shipment</item>
+        <item>@string/no_shipment</item>
+    </string-array>
+
+</resources>

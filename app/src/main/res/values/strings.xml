@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All</string>
+
+    <string name="action_save">Save Item</string>
+
+    <string name="action_delete">Delete Item</string>
+
+    <string name="empty_inventory"> To populate the data base click on floating point and insert data into database </string>
+
+    <!-- Text hint for name field in the deatils -->
+    <string name="hint_product_name">Name</string>
+
+    <!-- Text hint for breed field in the details-->
+    <string name="hint_product_quantity">Quantity</string>
+
+    <!-- Text hint for name field in the details-->
+    <string name="hint_product_price">Price</string>
+
+    <!-- Text hint for name field in the details-->
+    <string name="hint_product_supplier">Supplier</string>
+
+    <!-- Sales string -->
+    <string name="product_sale">Sale</string>
+
+    <!-- Price Title -->
+    <string name="price_title">Price</string>
+
+    <!-- photo Title -->
+    <string name="product_photo">Photo</string>
+
+    <!-- Shipment Title -->
+    <string name="shipment_title">Shipment</string>
+
+    <!-- Quantity Title -->
+    <string name="quantity_title">Quantity</string>
+
+    <!-- Units for price of the products  -->
+    <string name="unit_product_price">$</string>
+
+    <string name="sale_unkown">UNKOWN</string>
+
+    <string name="sale">SALE</string>
+
+    <string name="no_sale">NO_SALE</string>
+
+    <string name="shipment_unkown">UNKOWN</string>
+
+    <string name="shipment">SHIPMENT</string>
+
+    <string name="no_shipment">NO_SHIPMENT</string>
+
+    <string name="add_product_title">Add Product</string>
+
+    <string name="edit_product_title">Edit Product</string>
+
+    <string name="details_insert_pet_failed">Insert Failed</string>
+
+    <string name="details_insert_pet_successful">Product Inserted</string>
+
+    <string name="details_update_pet_failed">Update Failed</string>
+
+    <string name="details_update_pet_successful">Product Updated</string>
+
+    <string name="details_delete_pet_failed">Delete Failed</string>
+
+    <string name="details_delete_pet_successful">Product Deleted</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current product  -->
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="Insert_Done_Message">Product Saved</string>
+
+    <string name="Delete_All_Data_Message">All Data Deleted</string>
+
+    <string name="Delete_Specific_rows_Message">Row(s) Deleted</string>
+    
+    <string name="Messege_Content">I want to order this product </string>
+
+    <string name="Message_subject">Ordering Product</string>
+
+    <!-- Title for edit the product -->
+    <string name="title_edit_product">Edit Product</string>
+
+    <!-- Title for the activity to add a new product -->
+    <string name="title_new_product">Add Product</string>
+
+    <!-- invalid Decrease -->
+    <string name="invalid_decrease_message">Invalid Quantity Decrease</string>
+
+    <!-- message for null values -->
+    <string name="message_for_null_values">No Null Values Accepted</string>
+
+    <string name="out_of_stock_message">This Product Is Out Of Stock</string>
+
+</resources>
